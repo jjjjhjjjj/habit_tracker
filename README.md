@@ -7,20 +7,11 @@
 
 ## 프로젝트 화면 및 소개
 
-- 메인 화면
+### 1. 메인 화면
 ![메인](https://user-images.githubusercontent.com/64426431/102019979-b7649b00-3db9-11eb-82ca-53e29aa69e51.PNG)
-    - 클래스형 컴포넌트로 구현
-    - 추가, 수정, 삭제 기능 구현
-    - 전체 개수를 Header에 전달해 표시
-    - 리액트 PureComponent를 이용한 성능 최적화
-
-
-- 메인 화면
-![메인](https://user-images.githubusercontent.com/64426431/102019979-b7649b00-3db9-11eb-82ca-53e29aa69e51.PNG)
-    - Axois로 API 호출
-    - Router를 이용하여 다양한 카테고리 구현
-    - _Localhost가 아니면 API 공백 리턴_
-
-
+- 클래스형 컴포넌트로 구현
+- 추가, 수정, 삭제 기능 구현
+- 전체 개수를 Header에 전달해 표시
+- 리액트 PureComponent를 이용한 성능 최적화
 
 #### [참고](https://academy.dream-coding.com/courses/react-basic)
